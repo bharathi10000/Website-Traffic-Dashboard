@@ -47,7 +47,7 @@ The best dashboard explanation format.<br>
 -	April had the highest bounce rate; July the lowest—identifying these trends could inform future content strategy.
 
 ## Screenshots / Demos
-  Show what the dashboard looks like.
+  ![Dashboard Preview](https://github.com/bharathi10000/Website-Traffic-Dashboard/blob/main/Snapshot%20of%20Dashboard.png)
 
 
 
