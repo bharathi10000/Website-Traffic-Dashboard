@@ -48,6 +48,9 @@ The best dashboard explanation format.<br>
 
 ## Screenshots / Demos
   ![Dashboard Preview](https://github.com/bharathi10000/Website-Traffic-Dashboard/blob/main/Snapshot%20of%20Dashboard.png)
+  <img src="https://github.com/bharathi10000/Website-Traffic-Dashboard/blob/main/Website%20Traffic%20by%20Device%20Sources.png" width="350" height="200" />
+  <img src="https://github.com/bharathi10000/Website-Traffic-Dashboard/blob/main/Website%20Traffic%20Trend%20over%20time.png" width="350" height="200"/>
+  <img src="https://github.com/bharathi10000/Website-Traffic-Dashboard/blob/main/Geography%20based%20Website%20Traffic.png" width="300" height="200"/>
 
 
 
